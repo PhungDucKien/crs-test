@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # Will change this later.
 SUPER_SEECRET_VALUE = 'c3VwZXIgbG9uZyBzdHJpbmcgc2hvdWxkIGNhdXNlIGVub3VnaCBlbnRyb3B5'
+SUPER_SEECRET_VALUE = ''
 VERY_SECRET_TOO = 'f6CGV4aMM9zedoh3OUNbSakBymo7yplB'  # pragma: allowlist secret
 
 
